@@ -22,7 +22,7 @@
 ---
 ## 📥 Download
 📥 [`BongoCat.zip`](https://github.com/Viedie/BongoCat-Windows/releases/download/Utilitles/BongoCat.zip)
-
+---
 > ℹ️ Optimized for Windows 10 and Windows 11. Works great as a desktop companion.
 
 ---
